@@ -14,7 +14,7 @@ Ant Design currently provides two componetns for layout: [Layout](http://ant.des
 
 Grid layout is widely used, one of its major benefits is responsiveness.
 
-Grid Component provided by Ant Design is tremedously powerful. you can set span, responsive columns, and optional `flex` layout. It covers a majority of use-cases: See [Grid](http://ant.design/components/grid/) for details.
+Grid Component provided by Ant Design is tremendously powerful. you can set span, responsive columns, and optional `flex` layout. It covers a majority of use-cases: See [Grid](http://ant.design/components/grid/) for details.
 
 ## Using the Layout Component
 
@@ -24,7 +24,7 @@ If you need more structured layout components, then [Layout](http://ant.design/c
 
 Under most cases, we will build more specific components from the above ones, that includes navigation, sidebar, notification, titles etc., An example would be [BasicLayout](https://github.com/ant-design/ant-design-pro/blob/master/src/layouts/BasicLayout.js) from Ant Design Pro.
 
-We put layout components inside `layout`, parrallel to `routes` and `components`. It is worth noting that layout components has no fundamental difference from other components, just that it deals with layout.
+We put layout components inside `layout`, parallel to `routes` and `components`. It is worth noting that layout components has no fundamental difference from other components, just that it deals with layout.
 
 ### Handling `this.props.children`
 
