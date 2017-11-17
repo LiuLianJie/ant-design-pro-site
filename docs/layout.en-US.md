@@ -4,9 +4,9 @@ title: Layout
 type: Introduction
 ---
 
-Layout is the outermost structure for a project, ususaly consists of navigation, footer, sidebar, notification and content. There are also a lot of different layouts within a page.
+Layout is the outermost structure for a project, usually consists of navigation, footer, sidebar, notification and content. There are also a lot of different layouts within a page.
 
-Ant Design currently provides two componetns for layout: [Layout](http://ant.design/components/layout/) and [Grid](http://ant.design/components/grid/).
+Ant Design currently provides two components for layout: [Layout](http://ant.design/components/layout/) and [Grid](http://ant.design/components/grid/).
 
 ---
 
